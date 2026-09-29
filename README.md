@@ -13,6 +13,7 @@
 
 主线一句话：**每条线的第一步都是一个问题，不是一篇论文。**
 
-- Zenodo（冻结版）：DOI [10.5281/zenodo.23030093](https://doi.org/10.5281/zenodo.23030093)（发布后回填）
+- Zenodo 最新版（CN/EN 双语·v1.1）：DOI [10.5281/zenodo.23030305](https://doi.org/10.5281/zenodo.23030305)（v1.0 CN：10.5281/zenodo.23030093）（发布后回填）
 - 纲领：`constructive_prehistory_program_v1.0_CN.md` · 合订全篇：`constructive_prehistory_full_v1.0_CN.md`
+- English edition included (v1.1): full, program, and all six essays.
 - License: CC-BY-4.0（全文档）
